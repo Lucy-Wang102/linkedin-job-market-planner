@@ -1,8 +1,6 @@
-# linkedin-job-market-planner
-An interactive Streamlit dashboard for exploring LinkedIn job demand, salary, remote work, and career-service priorities.
 # LinkedIn Job Market Planner
 
-**Live app:** I will add the Streamlit Community Cloud link here after deployment.
+**Live app:** https://linkedin-job-market-planner.streamlit.app/
 
 ## Purpose and intended user
 
